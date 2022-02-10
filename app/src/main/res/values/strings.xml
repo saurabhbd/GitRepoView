@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitRepoView</string>
+    <string name="repository_name">Repository Name :</string>
+    <string name="repository_url">Repository URL :</string>
+</resources>
